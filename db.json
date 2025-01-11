@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "c4-server",
+      "author": "c-4",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "title": "c5-server",
+      "author": "c5"
+    },
+    {
+      "id": 5,
+      "title": "viernes de rumbaaa",
+      "author": "v-10"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
